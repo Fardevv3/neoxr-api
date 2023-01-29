@@ -6,7 +6,7 @@ const index = require('./routes/index'),
    api = require('./routes/api')
 const PORT = process.env.PORT || 8080
 
-global.creator = '@neoxrs – Wildan Izzudin'
+global.creator = 'RezDev.'
 global.status = {
    query: {
       creator: global.creator,
